@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animals Around the World</title>
+	</head>
+<body>
+ 	<h1>Brown Buggy Bear </h1>
+  <p>The brown bear (Ursus arctos) is native to parts of northern Eurasia and North America. Its conservation status is currently "Least Concern." There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
+  <p>The following are subspecies of bears:</p>
+  <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank"> Learn 							More</a>
+  	<ul>
+      <li>Arctos</li>
+ 			<li>Collarus </li>
+ 			<li>Horribilis </li>
+ 			<li>Nelsoni (extinct) </li>
+  	</ul>
+  <p>The following countries have the largest populations<br /> of brown bears:</p>
+  	<ol>
+    	<li> Russia</li>
+			<li>United States</li>
+			<li>Canada</li>
+ 	 </ol>
+	<!--CAUTION! Following Image May Offend! -->
+  <a href="http://www.futurestradingnepal.com/cmsimages/file/download/money%20flow.jpg" target="_blank"><img src="#" alt="A red prickly pear fruit"/></a>
+</body> 
+</html>
